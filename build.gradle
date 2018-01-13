@@ -1,5 +1,5 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
-apply from: "http://code.taobao.org/p/appConfig/file/4966/config.gradle"
+apply from: "https://gitee.com/moonlook_lv/config/raw/master/config.gradle"
 buildscript {
     
     repositories {
